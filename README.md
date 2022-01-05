@@ -5,7 +5,9 @@
 ![COVID-19 Tracker](https://github.com/kmwangemi/covid-19-us-tracker/blob/main/public/covid-img.png)
 
 ## Introduction
-This is a code repository for dispaying the assummed COVID-19 cases reported in the US states. It mainly focuses on the front end part of the application. I have used create-react-app for scaffolding the project. The libraries and packages I have used in the project include: @react-google-maps/api which provides very simple bindings to the google maps api and lets you use it in your app as React components, use-places-autocomplete, which helps you build a UI component with the feature of place autocomplete easily! By leveraging the power of Google Maps Places API, numeral, A javascript library for formatting and manipulating numbers, react-count-animation for animating numbers count and Material UI and SASS for styling the components.
+This is a code repository for dispaying COVID-19 cases reported in the US states. It mainly focuses on the front end part of the application. 
+
+I have used create-react-app for scaffolding the project. The libraries and packages I have used in the project include: @react-google-maps/api which provides very simple bindings to the google maps api and lets you use it in your app as React components, use-places-autocomplete, which helps you build a UI component with the feature of place autocomplete easily! By leveraging the power of Google Maps Places API, numeral, A javascript library for formatting and manipulating numbers, react-count-animation for animating numbers count and Material UI and SASS for styling the components.
 
 Given additional time, I could have improved more on the UI to look more appealing, and add more features, like charts for displaying the data
 
