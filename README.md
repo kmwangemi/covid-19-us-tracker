@@ -1,6 +1,6 @@
 # COVID-19 US Tracker
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://kmwangemi.github.io/covid-19-us-tracker/)
 
 ![COVID-19 Tracker](https://github.com/kmwangemi/covid-19-us-tracker/blob/main/public/covid-img.png)
 
