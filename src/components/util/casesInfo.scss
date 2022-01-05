@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+$primary-color: #6b7add;
+$green-color: green;
+$red-color: red;
+$primary-Text: #737585;
+
+.cases__Info {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	.info_Row {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		.leftSide {
+			display: flex;
+			align-items: center;
+			.markerBlue,
+			.markerGreen,
+			.markerRed {
+				width: 0.65rem;
+				height: 0.65rem;
+				background-color: $primary-color;
+				border-radius: 0.2rem;
+				opacity: 0.7;
+			}
+			.markerGreen {
+				background-color: $green-color;
+				margin-top: 0.5rem;
+				margin-bottom: 0.5rem;
+			}
+			.markerRed {
+				background-color: $red-color;
+			}
+			.cases {
+				margin-left: 5px;
+				font-size: 0.65rem;
+				color: $primary-Text;
+				font-weight: 700;
+			}
+		}
+		.no_of_Cases {
+			color: $primary-Text;
+			font-weight: 800;
+			font-size: 0.8rem;
+			font-family: 'Manrope', sans-serif;
+		}
+	}
+}

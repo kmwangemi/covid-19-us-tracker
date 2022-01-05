@@ -1,0 +1,502 @@
+{
+	"AL": {
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.3182314",
+		"long": "-86.902298",   
+      "cases": 67491,
+      "active": 11849,
+      "recovered": 42864,
+      "deaths": 14018
+	},
+	"AK": {
+		"name": "Alaska",
+		"capital": "Juneau",
+		"lat": "33.462894",
+		"long": "-112.33924",
+		"cases": 68791,
+		"active": 18649,
+		"recovered": 44644,
+		"deaths": 14819
+	},
+	"AZ": {
+		"name": "Arizona",
+		"capital": "Phoenix",
+		"lat": "4.0489281",
+		"long": "-111.0937311",
+		"cases": 63971,
+		"active": 1819,
+		"recovered": 48644,
+		"deaths": 48098
+	},
+	"AR": {
+		"name": "Arkansas",
+		"capital": "Little Rock",
+		"lat": "35.20105",
+		"long": "-91.8318334",
+		"cases": 38949,
+		"active": 18849,
+		"recovered": 44264,
+		"deaths": 1898
+	},
+	"CA": {
+		"name": "California",
+		"capital": "Sacramento",
+		"lat": "36.778261",
+		"long": "-119.4179324",
+		"cases": 63791,
+		"active": 18649,
+		"recovered": 44264,
+		"deaths": 14898
+	},
+	"CO": {
+		"name": "Colorado",
+		"capital": "Denver",
+		"lat": "39.5500507",
+		"long": "-105.7820674", 
+		"cases": 68749,
+		"active": 1864,
+		"recovered": 42864,
+		"deaths": 14018
+	},
+	"CT": {
+		"name": "Connecticut",
+		"capital": "Hartford",
+		"lat": "41.6032207",        
+		"long": "-73.087749",
+		"cases": 63491,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 1481
+	},
+	"DE": {
+		"name": "Delaware",
+		"capital": "Dover",
+		"lat": "38.9108325",
+		"long": "-75.52766989999999",    
+		"cases": 38991,
+		"active": 18189,
+		"recovered": 44284,
+		"deaths": 14801
+	},
+	"FL": {
+		"name": "Florida",
+		"capital": "Tallahassee",   
+		"lat": "27.6648274",
+		"long": "-81.5157535",
+		"cases": 63899,
+		"active": 81649,
+		"recovered": 44844,
+		"deaths": 1488
+	},
+	"GA": {
+		"name": "Georgia",
+		"capital": "Atlanta",
+		"lat": "32.1656221",
+		"long": "-82.9000751",   
+		"cases": 639791,
+		"active": 1889,
+		"recovered": 4264,
+		"deaths": 4819
+	},
+	"HI": {
+		"name": "Hawaii",
+		"capital": "Honolulu",
+		"lat": "43.826422",
+		"long": "-111.7803432",
+		"cases": 897491,
+		"active": 28864,
+		"recovered": 22864,
+		"deaths": 14869
+	},
+	"ID": {
+		"name": "Idaho",
+		"capital": "Boise",
+		"lat": "44.0682019",
+		"long": "-114.7420408",
+		"cases": 637974,
+		"active": 18849,
+		"recovered": 44244,
+		"deaths": 4898
+	},
+	"IL": {
+		"name": "Illinois",
+		"capital": "Springfield",  
+		"lat": "40.6331249",
+		"long": "-89.3985283",
+		"cases": 68991,
+		"active": 18149,
+		"recovered": 44844,
+		"deaths": 1488
+	},
+	"IN": {
+		"name": "Indiana",
+		"capital": "Indianapolis",
+		"lat": "40.2671941",
+		"long": "-86.1349019",
+		"cases": 63891,
+		"active": 18149,
+		"recovered": 44644,
+		"deaths": 1488
+	},
+	"IA": {
+		"name": "Iowa",
+		"capital": "Des Moines",
+		"lat": "41.8780025",
+		"long": "-93.097702",
+		"cases": 638991,
+		"active": 18149,
+		"recovered": 44644,
+		"deaths": 1488
+	},
+	"KS": {
+		"name": "Kansas",
+		"capital": "Topeka",
+		"lat": "39.011902",
+		"long": "-98.4842465",
+		"cases": 689749,
+		"active": 18864,
+		"recovered": 422864,
+		"deaths": 18019
+	},
+	"KY": {
+		"name": "Kentucky",
+		"capital": "Frankfort",
+		"lat": "37.8393332",
+		"long": "-84.2700179",
+		"cases": 689749,
+		"active": 18864,
+		"recovered": 42864,
+		"deaths": 1401
+	},
+	"LA": {
+		"name": "Louisiana",
+		"capital": "Baton Rouge",
+		"lat": "30.9842977",
+		"long": "-91.96233269999999",
+		"cases": 63897491,
+		"active": 88864,
+		"recovered": 42864,
+		"deaths": 4198
+	},
+	"ME": {
+		"name": "Maine",
+		"capital": "Augusta",
+		"lat": "45.253783",
+		"long": "-69.4454689",
+		"cases": 69749,
+		"active": 18964,
+		"recovered": 44864,
+		"deaths": 1498
+	},
+	"MD": {
+		"name": "Maryland",
+		"capital": "Annapolis", 
+		"lat": "39.0457549",
+		"long": "-76.64127119999999",
+		"cases": 69749,
+		"active": 18189,
+		"recovered": 442644,
+		"deaths": 14098
+	},
+	"MA": {
+		"name": "Massachusetts",
+		"capital": "Boston",
+		"lat": "42.4072107",
+		"long": "-71.3824374",
+		"cases": 638971,
+		"active": 18649,
+		"recovered": 442644,
+		"deaths": 14198
+	},
+	"MI": {
+		"name": "Michigan",
+		"capital": "Lansing",
+		"lat": "44.3148443",
+		"long": "-85.60236429999999",
+		"cases": 638991,
+		"active": 181649,
+		"recovered": 44644,
+		"deaths": 14898
+	},
+	"MN": {
+		"name": "Minnesota",
+		"capital": "Saint Paul",
+		"lat": "46.729553",
+		"long": "-94.6858998",
+		"cases": 638971,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 14198
+	},
+	"MS": {
+		"name": "Mississippi",
+		"capital": "Jackson",
+		"lat": "32.3546679",
+		"long": "-89.3985283",
+		"cases": 637491,
+		"active": 181649,
+		"recovered": 48644,
+		"deaths": 14198
+	},
+	"MO": {
+		"name": "Missouri",
+		"capital": "Jefferson City",
+		"lat": "37.9642529",
+		"long": "-91.8318334",
+		"cases": 638991,
+		"active": 188649,
+		"recovered": 448644,
+		"deaths": 14898
+	},
+	"MT": {
+		"name": "Montana",
+		"capital": "Helana",
+		"lat": "46.8796822",
+		"long": "-110.3625658",
+		"cases": 63891,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 14198
+	},
+	"NE": {
+		"name": "Nebraska",
+		"capital": "Lincoln",  
+		"lat": "41.4925374",
+		"long": "-99.9018131",
+		"cases": 97491,
+		"active": 188649,
+		"recovered": 228644,
+		"deaths": 80198
+	},
+	"NV": {
+		"name": "Nevada",
+		"capital": "Carson City",
+		"lat": "38.8026097", 
+		"long": "-116.419389",
+		"cases": 97491,
+		"active": 88649,
+		"recovered": 28644,
+		"deaths": 10198
+	},
+	"NH": {
+		"name": "New Hampshire",
+		"capital": "Concord",
+		"lat": "43.1938516",
+		"long": "-71.5723953",
+		"cases": 97491,
+		"active": 88649,
+		"recovered": 28644,
+		"deaths": 1498
+	},
+	"NJ": {
+		"name": "New Jersey",
+		"capital": "Trenton",
+		"lat": "40.0583238",
+		"long": "-74.4056612",
+		"cases": 638991,
+		"active": 18649,
+		"recovered": 448644,
+		"deaths": 1198
+	},
+	"NM": {
+		"name": "New Mexico",
+		"capital": "Santa Fe",
+		"lat": "34.5199402",
+		"long": "-105.8700901",
+		"cases": 89749,
+		"active": 18864,
+		"recovered": 22864,
+		"deaths": 8019
+	},
+	"NY": {
+		"name": "New York",
+		"capital": "Albany",
+		"lat": "40.7127753",
+		"long": "-74.0059728",
+		"cases": 63491,
+		"active": 18149,
+		"recovered": 48644,
+		"deaths": 1488
+	},
+	"NC": {
+		"name": "North Carolina",   
+		"capital": "Raleigh",
+		"lat": "35.7595731",
+		"long": "-79.01929969999999",
+		"cases": 63891,
+		"active": 18649,
+		"recovered": 44644,
+		"deaths": 1198
+	},
+	"ND": {
+		"name": "North Dakota",
+		"capital": "Bismarck",
+		"lat": "47.5514926",
+		"long": "-101.0020119",
+		"cases": 63897,
+		"active": 18188,
+		"recovered": 44244,
+		"deaths": 10198
+	},
+	"OH": {
+		"name": "Ohio",
+		"capital": "Columbus",
+		"lat": "40.4172871",
+		"long": "-82.90712300000001",
+		"cases": 63891,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 1488
+	},
+	"OK": {
+		"name": "Oklahoma",
+		"capital": "Oklahoma City",
+		"lat": "35.0077519",
+		"long": "-97.092877",
+		"cases": 63491,
+		"active": 18149,
+		"recovered": 448644,
+		"deaths": 1498
+	},
+	"OR": {
+		"name": "Oregon",
+		"capital": "Salem",
+		"lat": "43.8041334",
+		"long": "-120.5542012",
+		"cases": 63897,
+		"active": 18149,
+		"recovered": 48644,
+		"deaths": 1198
+	},
+	"PA": {
+		"name": "Pennsylvania",
+		"capital": "Harrisburg",
+		"lat": "41.2033216", 
+		"long": "-77.1945247",
+		"cases": 67491,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 1198
+	},
+	"RI": {
+		"name": "Rhode Island",
+		"capital": "Providence",
+		"lat": "41.5800945",
+		"long": "-71.4774291",
+		"cases": 63897491,
+		"active": 18188,
+		"recovered": 44644,
+		"deaths": 8098
+	},
+	"SC": {
+		"name": "South Carolina",
+		"capital": "Columbia",
+		"lat": "33.836081",
+		"long": "-81.1637245",
+		"cases": 63491,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 14198
+	},
+	"SD": {
+		"name": "South Dakota",
+		"capital": "Pierre",
+		"lat": "43.9695148",
+		"long": "-99.9018131",
+		"cases": 63891,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 1198
+	},
+	"TN": {
+		"name": "Tennessee",
+		"capital": "Nashville",
+		"lat": "35.5174913",
+		"long": "-86.5804473",
+		"cases": 67491,
+		"active": 18189,
+		"recovered": 48644,
+		"deaths": 1488
+	},
+	"TX": {
+		"name": "Texas",
+		"capital": "Austin",
+		"lat": "31.9685988",
+		"long": "-99.9018131",
+		"cases": 63897491,
+		"active": 18649,
+		"recovered": 44644,
+		"deaths": 1498
+	},
+	"UT": {
+		"name": "Utah",
+		"capital": "Salt Lake City",   
+		"lat": "39.3209801",
+		"long": "-111.0937311",
+		"cases": 63897491,
+		"active": 18649,
+		"recovered": 44644,
+		"deaths": 1198
+	},
+	"VT": {
+		"name": "Vermont",
+		"capital": "Montpelier",
+		"lat": "44.5588028",
+		"long": "-72.57784149999999",
+		"cases": 63897491,
+		"active": 18649,
+		"recovered": 28644,
+		"deaths": 5198
+	},
+	"VA": {
+		"name": "Virginia",
+		"capital": "Richmond",
+		"lat": "37.4315734",
+		"long": "-78.6568942",
+		"cases": 6341,
+		"active": 1849,
+		"recovered": 4644,
+		"deaths": 1448
+	},
+	"WA": {
+		"name": "Washington",
+		"capital": "Olympia",
+		"lat": "38.9071923",
+		"long": "-77.0368707",
+		"cases": 63897491,
+		"active": 1849,
+		"recovered": 4644,
+		"deaths": 1098
+	},
+	"WV": {
+		"name": "West Virginia",
+		"capital": "Charleston", 
+		"lat": "38.5976262",
+		"long": "-80.4549026",
+		"cases": 97491,
+		"active": 18649,
+		"recovered": 48644,
+		"deaths": 8019
+	},
+	"WI": {
+		"name": "Wisconsin",
+		"capital": "Madison",
+		"lat": "43.7844397",
+		"long": "-88.7878678",
+		"cases": 38949,
+		"active": 81864,
+		"recovered": 42264,
+		"deaths": 1819
+	},
+	"WY": {
+		"name": "Wyoming",
+		"capital": "Cheyenne",
+		"lat": "43.0759678",
+		"long": "-107.2902839",
+		"cases": 63891,
+		"active": 1649,
+		"recovered": 8644,
+		"deaths": 1195
+	}
+}

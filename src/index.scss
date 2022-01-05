@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.gm-ui-hover-effect {
+	display: none !important;
+}
+
+.gm-style iframe + div { 
+   border: none !important; 
+}

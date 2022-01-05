@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+$primary-color: #6b7add;
+$bg-color: #f7f8fc;
+$primary-Text: #737585;
+$bg-Shade: #dee0f4;
+
+.SearchBar__Container {
+	position: fixed;
+	top: 40%;
+	left: 17.7%;
+	transform: translateX(-50%);
+	width: 100%;
+	max-width: 22.7rem;
+	z-index: 1;
+	input {
+		width: 100%;
+		background-color: $bg-color;
+		padding: 0.45rem;
+		border: 2px solid #e7e9f0;
+		&::placeholder {
+			font-size: 0.8rem;
+			font-family: 'Manrope', sans-serif;
+			font-weight: 700;
+		}
+		&:focus {
+			outline: none;
+		}
+		font-size: 1rem;
+	}
+	ul {
+		height: 100%;
+		li {
+			cursor: pointer;
+			list-style-type: none;
+			padding: 0.45rem;
+			border-radius: 0.3rem;
+			font-size: 0.75rem;
+			font-weight: 650;
+			color: $primary-Text;
+			display: flex;
+			justify-content: space-between;
+			transition: all 0.2s ease;
+			&:hover {
+				background-color: $bg-Shade;
+				color: $primary-color;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 1070px) {
+	.SearchBar__Container {
+		position: fixed;
+		top: 43%;
+		left: 50%;
+		max-width: 40rem;
+	}
+}
+
+@media screen and (max-width: 705px) {
+	.SearchBar__Container {
+		position: fixed;
+		top: 38%;
+		left: 48%;
+		max-width: 20rem;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.SearchBar__Container {
+		position: fixed;
+		top: 43%;
+		left: 48%;
+		max-width: 18rem;
+	}
+}
