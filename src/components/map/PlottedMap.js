@@ -8,7 +8,7 @@ import {
 } from '@react-google-maps/api';
 import numeral from "numeral";
 
-import SearchMaps from "../searchMaps"
+import SearchMaps from "../searchmap/SearchMap"
 import mapStyles from "./MapStyles"
 import "./plottedmap.scss";
 

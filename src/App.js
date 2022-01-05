@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from "react";
-import Card from "./components/card";
+import Card from "./components/card/Card";
 import PlottedMap from "./components/map/PlottedMap";
 import worldWideCases from "./data/worldWide.json";
 import usCases from "./data/usStates.json";

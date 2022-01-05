@@ -4,9 +4,9 @@ import usePlacesAutocomplete, {
 } from "use-places-autocomplete";
 import useOnclickOutside from "react-cool-onclickoutside";
 
-import './searchmaps.scss';
+import './searchmap.scss';
 
-const SearchMaps = ({ panTo, searchedCasesInfo }) => {
+const SearchMap = ({ panTo, searchedCasesInfo }) => {
    const {
       ready,
       value,
@@ -69,4 +69,4 @@ const SearchMaps = ({ panTo, searchedCasesInfo }) => {
    );
 }
 
-export default SearchMaps;
+export default SearchMap;

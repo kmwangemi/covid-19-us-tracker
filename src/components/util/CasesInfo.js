@@ -1,5 +1,5 @@
 import numeral from "numeral";
-import "./casesInfo.scss";
+import "./casesinfo.scss";
 
 const CasesInfo = ({ selectedState }) => {
 
