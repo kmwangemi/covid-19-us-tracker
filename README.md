@@ -9,7 +9,7 @@ This is a code repository for dispaying COVID-19 cases reported in the US states
 
 I have used create-react-app for scaffolding the project. The libraries and packages I have used in the project include: @react-google-maps/api which provides very simple bindings to the google maps api and lets you use it in your app as React components, use-places-autocomplete, which helps you build a UI component with the feature of place autocomplete easily! By leveraging the power of Google Maps Places API, numeral, A javascript library for formatting and manipulating numbers, react-count-animation for animating numbers count and Material UI and SASS for styling the components.
 
-Given additional time, I could have improved more on the UI to look more appealing, and add more features, like charts for displaying the data
+Given additional time, I could have improved more on the UI to look more appealing, and add more features, like charts for displaying the data. Moreover, I would add more tests to test all the features in the application
 
 API used: I used two Json files, usStates.json for getting US States data and worldwide.json for getting worldwide data, both included in the project repository. I had to manipulate the data to represent the given UI, since the given url `https://www.trackcorona.live/api` was not working.
 

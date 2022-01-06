@@ -58,6 +58,7 @@ const SearchMap = ({ panTo, searchedCasesInfo }) => {
       <div ref={ref} className="SearchBar__Container">
          <input
             type="search"
+            name="search"
             value={value}
             onChange={handleInput}
             disabled={!ready}
