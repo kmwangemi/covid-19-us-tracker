@@ -65,10 +65,12 @@ const PlottedMap = ({ mapStates, searchedCasesInfo }) => {
             key={`${+state.lat}-${+state.lng}`}
             position={{ lat: (+state.lat), lng: (+state.long) }}
             icon={{
-               url: '/circle.svg',
-               scaledSize: new window.google.maps.Size(30, 30),
-               origin: new window.google.maps.Point(0, 0),
-               anchor: new window.google.maps.Point(15, 15),
+               path: "M-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0",
+               fillColor: '#FF0000',
+               fillOpacity: .6,
+               anchor: new window.google.maps.Point(0, 0),
+               strokeWeight: 0,
+               scale: Math.log(state.cases) * 0.05
             }}
             onMouseOver={() => handleMouseOver(state)}
             onMouseOut={handleMouseExit}
